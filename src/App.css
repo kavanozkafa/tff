@@ -1,0 +1,148 @@
+.App {
+  text-align: center;
+  
+}
+
+#alanya {
+  
+  background-image: linear-gradient(to left,white, orange);
+}
+#alanya:hover{
+  background-image: linear-gradient(to left, orange,white);
+}
+
+#ankara{
+  
+  background-image: linear-gradient(to left,yellow, darkblue);
+}
+#ankara:hover{
+  background-image: linear-gradient(to left, darkblue,yellow);
+}
+
+#antalya{
+  
+  background-image: linear-gradient(to left,white, red);
+}
+#antalya:hover{
+  background-image: linear-gradient(to left, red,white);
+}
+
+#basaksehir{
+  
+  background-image: linear-gradient(to left,darkblue, orange);
+}
+#basaksehir:hover{
+  background-image: linear-gradient(to left, orange,darkblue);
+}
+
+#bjk{
+  
+  background-image: linear-gradient(to left,white, black);
+}
+#bjk:hover{
+  background-image: linear-gradient(to left, black,white);
+}
+
+#denizli{
+  
+  background-image: linear-gradient(to left,green, black);
+}
+#denizli:hover{
+  background-image: linear-gradient(to left, black,green);
+}
+
+#fb{
+  
+  background-image: linear-gradient(to left,yellow, darkblue);
+}
+#fb:hover{
+  background-image: linear-gradient(to left, darkblue,yellow);
+}
+
+#gazisehir{
+  
+  background-image: linear-gradient(to left,red, black);
+}
+#gazisehir:hover{
+  background-image: linear-gradient(to left, black,red);
+}
+
+#genclerbirligi{
+  
+  background-image: linear-gradient(to left,black, red);
+}
+#genclerbirligi:hover{
+  background-image: linear-gradient(to left, red,black);
+}
+
+#goztepe{
+  
+  background-image: linear-gradient(to left,yellow, red);
+}
+#goztepe:hover{
+  background-image: linear-gradient(to left, red,yellow);
+}
+
+#gs{
+  
+  background-image: linear-gradient(to left,red, yellow);
+}
+#gs:hover{
+  background-image: linear-gradient(to left, yellow,red);
+}
+
+#kasımpasa{
+  
+  background-image: linear-gradient(to left,white, blue);
+}
+#kasımpasa:hover{
+  background-image: linear-gradient(to left, blue,white);
+}
+
+#kayseri{
+  
+  background-image: linear-gradient(to left,red, yellow);
+}
+#kayseri:hover{
+  background-image: linear-gradient(to left, yellow,red);
+}
+
+#konya{
+  
+  background-image: linear-gradient(to left,white, green);
+}
+#konya:hover{
+  background-image: linear-gradient(to left, green,white);
+}
+
+#malatya{
+  
+  background-image: linear-gradient(to left,yellow, black);
+}
+#malatya:hover{
+  background-image: linear-gradient(to left, black,yellow);
+}
+
+#rize{
+  
+  background-image: linear-gradient(to left,blue, green);
+}
+#rize:hover{
+  background-image: linear-gradient(to left, green,blue);
+}
+
+#sivas{
+  
+  background-image: linear-gradient(to left,white, red);
+}
+#sivas:hover{
+  background-image: linear-gradient(to left, red,white);
+}
+
+#ts{
+  
+  background-image: linear-gradient(to left,#550A21, blue);
+}
+#ts:hover{
+  background-image: linear-gradient(to left, blue,#550A21);
+}
